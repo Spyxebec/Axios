@@ -84,11 +84,11 @@ The frontend will run on `http://localhost:5173`
 ## 🔧 MongoDB Atlas Setup
 
 ### Current Connection Details:
-- **URI**: `mongodb+srv://aswath123:aswath123@cluster2.n70revl.mongodb.net/employeeDB`
+- **URI**: add your mongodb atlas connection string
 - **Database**: `employeeDB`
 - **Collection**: `employees`
-- **Username**: `aswath123`
-- **Password**: `aswath123`
+- **Username**: add the username
+- **Password**: add the password 
 
 ### If you encounter connection issues:
 
