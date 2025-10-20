@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(express.static('dist')); // Serve the dist/build files
 
 // MongoDB Connection
-const uri = process.env.MONGODB_URI || "mongodb+srv://aswath123:aswath123@cluster2.n70revl.mongodb.net/employeeDB?retryWrites=true&w=majority&appName=Cluster2";
+const uri = process.env.MONGODB_URI || "add your connection string from mongodbatlas";
 const client = new MongoClient(uri);
 
 let db;
