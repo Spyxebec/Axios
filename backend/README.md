@@ -33,7 +33,7 @@ npm install
 The `.env` file is already configured with your MongoDB Atlas connection:
 
 ```env
-MONGODB_URI=mongodb+srv://aswath123:aswath123@cluster2.n70revl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster2
+MONGODB_URI=add your momgoab connection string
 PORT=5000
 ```
 
